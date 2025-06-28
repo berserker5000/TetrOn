@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unrealengineprojects\\tetron\\source\\tetron\\myclass.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealengineprojects\\tetron\\intermediate\\build\\win64\\x64\\tetroneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "e:\\unrealengineprojects\\tetron\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tetron\\definitions.tetron.h",
+            "e:\\unrealengineprojects\\tetron\\source\\tetron\\myclass.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

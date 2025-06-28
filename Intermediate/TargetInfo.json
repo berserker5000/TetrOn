@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TetrON",
+			"Path": "..\\Source\\TetrON.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TetrONEditor",
+			"Path": "..\\Source\\TetrONEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TetrON.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UnrealEngineProjects\TetrON\Intermediate\Build\Win64\x64\TetrONEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"E:\UnrealEngineProjects\TetrON\Intermediate\Build\Win64\x64\UnrealEditor\Development\TetrON\MyClass.cpp.obj"
+"E:\UnrealEngineProjects\TetrON\Intermediate\Build\Win64\x64\UnrealEditor\Development\TetrON\TetrON.cpp.obj"
+"E:\UnrealEngineProjects\TetrON\Intermediate\Build\Win64\x64\UnrealEditor\Development\TetrON\Default.rc2.res"
+/OUT:"E:\UnrealEngineProjects\TetrON\Intermediate\Build\Win64\x64\UnrealEditor\Development\TetrON\UnrealEditor-TetrON.lib"
